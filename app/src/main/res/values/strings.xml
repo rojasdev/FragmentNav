@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment Nav</string>
+    <string name="app_dashboard">Dashboard</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_ship">Ship</string>
+    <string name="app_setting">Settings</string>
+</resources>
