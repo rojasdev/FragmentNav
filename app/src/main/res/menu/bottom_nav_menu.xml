@@ -5,15 +5,15 @@
         android:id="@+id/nav_dashboard"
         android:icon="@drawable/dashboard_icon"
         android:title="@string/app_dashboard" />
+    <item
+        android:id="@+id/nav_ace"
+        android:icon="@drawable/ace_icon"
+        android:title="@string/app_ace" />
 
     <item
         android:id="@+id/nav_gallery"
         android:icon="@drawable/gallery_icon"
         android:title="@string/app_gallery" />
-    <item
-        android:id="@+id/nav_ship"
-        android:icon="@drawable/ship_icon"
-        android:title="@string/app_ship" />
 
     <item
         android:id="@+id/nav_setting"
