@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Row 1: 2 images -->
+    <!-- Row 1: 5 images -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -26,6 +26,8 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/gallery_icon" />
 
+
+
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="50dp"
@@ -41,6 +43,7 @@
                 android:contentDescription="@string/app_gallery"
                 android:scaleType="centerCrop"
                 android:src="@drawable/gallery_icon" />
+
 
         </LinearLayout>
 
@@ -59,6 +62,7 @@
             android:contentDescription="@string/app_gallery"
             android:scaleType="centerCrop"
             android:src="@drawable/gallery_icon" />
+
     </LinearLayout>
 
     <!-- Row 2: 1 full-width image -->
