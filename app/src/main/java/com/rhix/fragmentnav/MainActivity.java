@@ -41,7 +41,9 @@ public class MainActivity extends AppCompatActivity {
                         selectedFragment = new FragmentAce();
                 }else if (id == R.id.nav_setting){
                     selectedFragment = new FragmentGallery();
-                }
+                }else if (id == R.id.nav_ship){
+                selectedFragment = new FragmentShip();
+            }
 
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
                 return true;
