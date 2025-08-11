@@ -58,5 +58,35 @@
     "description": "Package received at front desk.",
     "timestamp": "2025-07-02 10:42",
     "icon": "ic_timeline_check"
+  },
+  {
+    "title": "Order Placed",
+    "description": "We received your order #12345.",
+    "timestamp": "2025-07-01 09:12",
+    "icon": "ic_timeline_order"
+  },
+  {
+    "title": "Packed",
+    "description": "Your items were packed and labeled.",
+    "timestamp": "2025-07-01 11:30",
+    "icon": "ic_timeline_box"
+  },
+  {
+    "title": "Shipped",
+    "description": "Courier picked up your parcel.",
+    "timestamp": "2025-07-01 15:05",
+    "icon": "ic_timeline_truck"
+  },
+  {
+    "title": "Out for Delivery",
+    "description": "Driver is heading to your address.",
+    "timestamp": "2025-07-02 08:00",
+    "icon": "ic_timeline_route"
+  },
+  {
+    "title": "Delivered",
+    "description": "Package received at front desk.",
+    "timestamp": "2025-07-02 10:42",
+    "icon": "ic_timeline_check"
   }
 ]

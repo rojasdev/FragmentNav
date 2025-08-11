@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
                     selectedFragment = new FragmentGallery();
                 } else if (id == R.id.nav_ace){
                         selectedFragment = new FragmentAce();
-                }else if (id == R.id.nav_setting){
-                    selectedFragment = new FragmentGallery();
+                }else if (id == R.id.nav_sqlite){
+                    selectedFragment = new FragmentSQLITE();
                 }else if (id == R.id.nav_ship){
                 selectedFragment = new FragmentShip();
             }

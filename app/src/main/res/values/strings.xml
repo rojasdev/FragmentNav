@@ -4,5 +4,11 @@
     <string name="app_gallery">Gallery</string>
     <string name="app_ace">Ace</string>
     <string name="app_ship">Ship</string>
+    <string name="app_sqlite">SQLITE</string>
     <string name="app_setting">Settings</string>
+    <string name="btn_add_product">Add Product</string>
+    <string name="app_product_name">Product Name</string>
+    <string name="app_product_description">Description</string>
+    <string name="app_product_price">Unit Price</string>
+    <string name="app_select_image">Select Image</string>
 </resources>
